@@ -6,7 +6,7 @@ Aplikasi ini merupakan contoh project uji kompetensi program keahlian Rekayasa P
 2. Masuk ke drive D: atau yang lain jika di linux silahkan masuk direktori mana saja
 3. Jalankan perintah : 
     <code>
-    git clone https://github.com/oyasuryana/kasir-ci4.git
+    git clone (https://github.com/HERLIxyz/apk-kasir-ci4.git)
     </code>
 4. Lakukan update dengan perintah 
    composer update
