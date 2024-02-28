@@ -10,8 +10,9 @@ Aplikasi ini merupakan contoh project uji kompetensi program keahlian Rekayasa P
     </code>
 4. Lakukan update dengan perintah 
    composer update
-5. Ganti file env menjadi .env
-6. Seting :
+%. hapus saja file env
+6. Ganti file env utama menjadi .env
+7. Seting :
    <code> 
    CI_ENVIRONMENT = development atau production
    
